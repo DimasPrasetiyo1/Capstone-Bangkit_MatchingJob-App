@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MatchingJob</string>
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Welcome To MatchingJob!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="message_main_page">Look for a job according to your field</string>
+    <string name="logout">Logout</string>
+    <string name="signup">SignUp</string>
+    <string name="name">Name</string>
+    <string name="title_signup_page">Please Fill in Your Data</string>
+    <string name="title_welcome_page">Welcome to MatchingJobs</string>
+    <string name="message_welcome_page">Look for jobs according to what you want</string>
+</resources>
